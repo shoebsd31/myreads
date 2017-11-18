@@ -42,8 +42,8 @@ Which will open a new browser window pointed to [localhost:3000](http://localhos
 
 ### Authors
 Joshua Gilless
-* [https://github.com/jgilless](https://github.com/jgilless)
-* [https://twitter.com/JoshuaGilless](https://twitter.com/JoshuaGilless)
+* [https://github.com/shoebsd31](https://github.com/shoebsd31)
+* [https://www.linkedin.com/in/shoebsayyed](https://www.linkedin.com/in/shoebsayyed)
 
 ### Acknowledgments
 * [Udacity](https://www.udacity.com/)
