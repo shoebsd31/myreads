@@ -41,7 +41,7 @@ Which will open a new browser window pointed to [localhost:3000](http://localhos
 * [Github](https://github.com/)
 
 ### Authors
-Joshua Gilless
+Shoeb Sayyed
 * [https://github.com/shoebsd31](https://github.com/shoebsd31)
 * [https://www.linkedin.com/in/shoebsayyed](https://www.linkedin.com/in/shoebsayyed)
 
